@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Jorge Herrera
 
-<!--
-**GhostJL/GhostJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con experiencia en Flutter, bases de datos y arquitectura limpia. Me encanta construir soluciones eficientes y escalables.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+## 📫 Cómo contactarme
+
+- [LinkedIn](https://mx.linkedin.com/in/jorge-luis-enriquez-herrera-3a406926a)
