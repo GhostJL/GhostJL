@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Jorge Herrera!
 
-🎓 Soy **Ingeniero en Informática titulado** con experiencia en desarrollo de software, diseño UI/UX y soluciones tecnológicas. Me apasiona crear aplicaciones eficientes, intuitivas y con buenas prácticas de arquitectura.
+🎓 Soy **Ingeniero en Informática** con experiencia en desarrollo de software, diseño UI/UX y soluciones tecnológicas. Me apasiona crear aplicaciones eficientes, intuitivas y con buenas prácticas de arquitectura.
 
 ---
 
